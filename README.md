@@ -2,7 +2,7 @@
 
 Landing page showcasing my embedded systems, hardware, and firmware projects.
 
-**Live site:** https://nat-su-lemon.github.io/  
+[**Live site**](https://nat-su-lemon.github.io/Nat-Su-lemon/)  
 
 ## About
 
