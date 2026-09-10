@@ -22,3 +22,11 @@
 - **[Floor-Cleaning Robot](https://github.com/MRFluffyNBS/Floor-Cleaning-Robot)** — ESP32 knockoff Roomba with obstacle avoidance
 - **[BirdNET Clustering Tool](https://github.com/Nat-Su-lemon/BirdNET_Clustering)** — UMAP + HDBSCAN clustering of bioacoustic embeddings
 - **[Raspberry Pi USB / TCP UART Bridge](https://github.com/Nat-Su-lemon/Raspi-UART--Bridge)** — serial-over-USB-gadget and TCP bridge
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Nat-Su-lemon&color=58A6FF&style=flat&label=Profile+views)
+
+</div>
