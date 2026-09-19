@@ -138,6 +138,8 @@
     overflow:hidden;
     display:flex;
     flex-direction:column;
+    position:relative;
+    cursor:pointer;
     transition:border-color .18s, transform .18s;
   }
   .card:hover{border-color:#3a4552;transform:translateY(-2px)}
@@ -197,7 +199,19 @@
   }
   .repo-link:hover{color:var(--green);text-decoration:none}
   .repo-link svg{width:15px;height:15px;fill:currentColor}
-  .aux-link{color:var(--dim)}
+  /* Stretch the repo link across the whole card */
+  .repo-link::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    z-index:1;
+  }
+  /* Keep secondary links clickable above the overlay */
+  .aux-link{
+    color:var(--dim);
+    position:relative;
+    z-index:2;
+  }
 
   /* ---------- Footer ---------- */
   footer{
