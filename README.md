@@ -25,8 +25,8 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nat-Su-lemon&color=58A6FF&style=flat&label=Profile+views)
 
-</div>
+</div> -->
